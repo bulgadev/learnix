@@ -4,7 +4,7 @@
 
 **An AI tutor that builds your study material, keeps your notes, and quizzes you on what you got wrong.**
 
-Built for Brazilian students preparing for the ENEM · [Live product →](https://learnix.app)
+Built for Brazilian students preparing for the ENEM · In development · [Preview →](https://learnix.bulga.top)
 
 [Português](README.pt-BR.md) · [Product tour](docs/product.md) · [How it's built](docs/architecture.md)
 
@@ -15,7 +15,7 @@ Built for Brazilian students preparing for the ENEM · [Live product →](https:
   <img alt="The Learnix study workspace: notes, tutor chat and note editor side by side" src="assets/hero-light.jpg">
 </picture>
 
-> **About this repository.** Learnix is a commercial SaaS, so the source code is private. This repository is the public showcase: what the product does, how it is engineered, and what I built. If you'd like a walkthrough or want something similar built for you, see [Work with me](#work-with-me).
+> **About this repository.** Learnix is a commercial SaaS in active development, so the source code is private. This repository is the public showcase: what the product does, how it is engineered, and what I built. If you'd like a walkthrough or want something similar built for you, see [Work with me](#work-with-me).
 
 ## What it does
 
@@ -79,6 +79,8 @@ The interesting work is in making AI features dependable and affordable enough t
 
 I build backend-heavy products end to end: APIs, data models, AI features with sensible cost controls, billing, and a polished UI. If that sounds useful:
 
+- Portfolio: [bulgaaw.com](https://bulgaaw.com)
+- Email: [me@bulgaaw.com](mailto:me@bulgaaw.com)
 - X: [@LinkyDevv](https://x.com/LinkyDevv)
 - GitHub: [bulgadev](https://github.com/bulgadev)
 

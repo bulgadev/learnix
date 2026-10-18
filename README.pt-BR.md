@@ -4,7 +4,7 @@
 
 **Um tutor de IA que monta o material de estudo, guarda suas notas e cobra o que você errou.**
 
-Feito para estudantes brasileiros que se preparam para o ENEM · [Produto no ar →](https://learnix.app)
+Feito para estudantes brasileiros que se preparam para o ENEM · Em desenvolvimento · [Prévia →](https://learnix.bulga.top)
 
 [English](README.md) · [Visão do produto](docs/product.md) · [Como é construído](docs/architecture.md)
 
@@ -15,7 +15,7 @@ Feito para estudantes brasileiros que se preparam para o ENEM · [Produto no ar 
   <img alt="O espaço de estudo do Learnix: notas, tutor e editor lado a lado" src="assets/hero-light.jpg">
 </picture>
 
-> **Sobre este repositório.** O Learnix é um SaaS comercial, então o código-fonte é privado. Este repositório é a vitrine pública: o que o produto faz, como foi projetado e o que eu construí. Se quiser uma demonstração ou algo parecido feito para você, veja [Trabalhe comigo](#trabalhe-comigo).
+> **Sobre este repositório.** O Learnix é um SaaS comercial em desenvolvimento, então o código-fonte é privado. Este repositório é a vitrine pública: o que o produto faz, como foi projetado e o que eu construí. Se quiser uma demonstração ou algo parecido feito para você, veja [Trabalhe comigo](#trabalhe-comigo).
 
 ## O que faz
 
@@ -53,6 +53,8 @@ O trabalho interessante está em tornar os recursos de IA confiáveis e baratos 
 
 Construo produtos completos com foco em backend: APIs, modelagem de dados, recursos de IA com controle de custo, cobrança e uma interface cuidada.
 
+- Portfólio: [bulgaaw.com/pt](https://bulgaaw.com/pt/)
+- E-mail: [me@bulgaaw.com](mailto:me@bulgaaw.com)
 - X: [@LinkyDevv](https://x.com/LinkyDevv)
 - GitHub: [bulgadev](https://github.com/bulgadev)
 
